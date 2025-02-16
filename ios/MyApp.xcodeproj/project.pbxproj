@@ -1,0 +1,12 @@
+// !$*UTF8*$!
+{
+    archiveVersion = 1;
+    classes = {
+    };
+    objectVersion = 56;
+    objects = {
+        // 项目配置内容会很长，这里省略
+        // 实际使用时建议使用 Xcode 创建项目，它会自动生成这个文件
+    };
+    rootObject = 1234567890ABCDEF /* Project object */;
+} 
